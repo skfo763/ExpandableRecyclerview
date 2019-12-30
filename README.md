@@ -3,14 +3,18 @@
 
 ### Settings
 #### 1. add this code into project build.gradle
-'''groovy allprojects {
+~~~groovy
+    allprojects {
    		repositories {
    			...
    			maven { url 'https://jitpack.io' }
    		}
-   	}'''
+   	}
+~~~
 
 #### 2. add this code into module(app) build.gradle
-'''groovy dependencies {
-    	        implementation 'com.github.skfo763:ExpandableRecyclerview:Tag'
-    	}'''
+~~~groovy
+   dependencies {
+       	        implementation 'com.github.skfo763:ExpandableRecyclerview:Tag'
+       	}
+~~~
