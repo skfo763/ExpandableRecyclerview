@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableRecyclerView">
+        <attr name="minLine" format="integer"/>
+        <attr name="maxLine" format="integer"/>
+        <attr name="isExpanded" format="boolean" />
+    </declare-styleable>
+</resources>
