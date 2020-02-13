@@ -15,6 +15,6 @@ allprojects {
 #### 2. add this code into module(app) build.gradle
 ~~~groovy
 dependencies {
-    implementation 'com.github.skfo763:ExpandableRecyclerview:1.0.1'
+    implementation 'com.github.skfo763:ExpandableRecyclerview:1.0.2'
 }
 ~~~
