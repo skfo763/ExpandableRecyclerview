@@ -73,7 +73,7 @@ collapse_button.setOnClickListener {
 ~~~
 
 #### attributes
-| name | description | default value | availableOnXml |
+| name | description | default value | available on xml |
 |:---------|:-------------------------|:-------|:----------|
 | minLine | minimum line for recyclerview | 1 | true |
 | maxLine | maximum line for recyclerview | depends on data | true |
