@@ -1,5 +1,5 @@
 # ExpandableRecyclerview
-### Expandable Recyclerview that can collapse and expand the height of itself
+### Expandable Recyclervie which can collapse and expand the height of itself
 
 
 # Settings
