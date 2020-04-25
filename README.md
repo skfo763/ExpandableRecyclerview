@@ -44,13 +44,12 @@ dependencies {
 #### activity_main.xml
 ~~~xml
 <com.skfo763.expandable_recyclerview.ExpandableRecyclerView
-	android:id="@+id/expandable_recyclerview"        
+    android:id="@+id/expandable_recyclerview"        
     android:layout_width="match_parent"
     android:layout_height="wrap_content" 
     app:minLine="1"
     app:maxLine="5"
-    app:isExpanded="false">
-</com.skfo763.expandable_recyclerview.ExpandableRecyclerView>
+    app:isExpanded="false"/>
  ~~~
  
  
