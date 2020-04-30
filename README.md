@@ -61,6 +61,10 @@ expandable_recyclerview.animationInterpolator = DecelerateInterpolator()
 expandable_recyclerview.onAnimationStart = {
     // Customize your event
 }
+
+expandable_recyclerview.onAnimationEnd = {
+    // Customize your event
+}
 ...
 expand_button.setOnClickListener {
     expandable_recyclerview.expandView()
